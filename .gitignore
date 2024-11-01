@@ -1,0 +1,30 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Python environment files
+.env
+.env.*
+
+# Compiled libraries
+*.so
+
+# macOS Finder files
+.DS_Store
